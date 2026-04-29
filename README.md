@@ -1,5 +1,8 @@
 # Wayland Color Profiling Control. Written in rust.
+
 The pictures here does not show any colorsettings it is only the TUI!
+I made archlinux package and one tar.gz package.
+
 ![freak1](https://github.com/m8l8th814n-eng/Wayland-Color-Profiling-Control/blob/main/freak.png)
 ![freak2](https://github.com/m8l8th814n-eng/Wayland-Color-Profiling-Control/blob/main/freak2.png)
 ![freak3](https://github.com/m8l8th814n-eng/Wayland-Color-Profiling-Control/blob/main/freak3.png)
